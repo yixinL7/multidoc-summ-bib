@@ -1,1 +1,30 @@
-# summrization-bibliography
+# multidoc-summ-bibliography
+
+This is a paperlist for multi-document summarization.
+
+- Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters. [NAACL 2021](https://aclanthology.org/2021.naacl-main.380/)
+- Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization. [ACL 2020](https://aclanthology.org/2020.acl-main.556/)
+- Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization. [ACL 2019](https://aclanthology.org/P19-1098/)
+- Query Focused Multi-Document Summarization with Distant Supervision. [EMNLP 2020](https://aclanthology.org/2020.emnlp-main.296/)
+- Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning. [EMNLP 2020](https://aclanthology.org/2020.emnlp-main.136/)
+- A Spectral Method for Unsupervised Multi-Document Summarization. [EMNLP 2020](https://aclanthology.org/2020.emnlp-main.32/)
+- Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model. [ACL 2019](https://aclanthology.org/P19-1102/)
+- SUMDocS: Surrounding-aware Unsupervised Multi-Document Summarization. [link](https://epubs.siam.org/doi/abs/10.1137/1.9781611976700.54)
+- Extractive Multi-Document Summarization: A Review of Progress in the Last Decade. [link](https://ieeexplore.ieee.org/document/9536694/)
+- Data Augmentation for Abstractive Query-Focused Multi-Document Summarization. [link](https://arxiv.org/abs/2103.01863)
+- Nutri-bullets: Summarizing Health Studies by Composing Segments. [link](https://arxiv.org/abs/2103.11921)
+- Nutri-bullets Hybrid: Consensual Multi-document Summarization. [NAACL 2021](https://aclanthology.org/2021.naacl-main.411.pdf)
+- Abstract Meaning Representation for Multi-Document Summarization. [COLING 2018](https://aclanthology.org/C18-1101/)
+- Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization. [EMNLP 2018](https://aclanthology.org/D18-1446/)
+- Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization. [ACL 2019](https://aclanthology.org/P19-1098/)
+- Scoring Sentence Singletons and Pairs for Abstractive Summarization. [ACL 2019](https://aclanthology.org/P19-1209/)
+- MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization. [ICML 2019](https://arxiv.org/abs/1810.05739)
+- Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization. [link](https://arxiv.org/pdf/1909.12231.pdf)
+- Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs. [link](https://arxiv.org/abs/1910.08435)
+- Multi-document Summarization via Deep Learning Techniques: A Survey. [link](https://arxiv.org/abs/2011.04843)
+- Hierarchical Transformers for Multi-Document Summarization. [link](https://aclanthology.org/P19-1500/)
+- Recent advances in document summarization. [link](https://link.springer.com/article/10.1007/s10115-017-1042-4)
+- WikiAsp: A Dataset for Multi-domain Aspect-based Summarization. [TACL](https://arxiv.org/abs/2011.07832)
+- Affinity-Preserving Random Walk for Multi-Document Summarization. [EMNLP 2017](https://aclanthology.org/D17-1020/)
+- Sentence Centrality Revisited for Unsupervised Summarization. [ACL 2019](https://aclanthology.org/P19-1628/)
+
